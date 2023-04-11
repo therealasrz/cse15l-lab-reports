@@ -39,14 +39,14 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? `
 
 4.Type `yes` and then type in your password, remember to use the `enter` key after inputting your message. Don't worry if the password does not show up when inputting it into the terminal, it's still there :)\
 
-If you have logged in successfully, you should see this:\
+If you have logged in successfully, you should see this:
 
 ![image](1681188036684.png)
 
 Good job! You now are sucessfully connected to a computer in UCSD.
 
 ## Step 4 Run Commands on your own
-Apply what you have learned recently in class and feel free to use them in the terminal. See what you can do. Here are some commands listed for you:\
+Apply what you have learned recently in class and feel free to use them in the terminal. See what you can do. Here are some commands listed for you:
 
 * `pwd`
 * `ls`
@@ -55,7 +55,8 @@ Apply what you have learned recently in class and feel free to use them in the t
 
 Feel free to play around with them yourself.
 
-Here is an example of running these commands in the terminal: \
+Here is an example of running these commands in the terminal: 
+
 ![image](1681189089312.png)
 
 
