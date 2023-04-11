@@ -15,12 +15,11 @@ CS15LSP23XX(XX stands for the unique code each student has)\
 
 To set up the coding environment, we need two tools: *VisualStudioCode* and *Gitbash*\
 
-   1.Go to [VisualStudioCode](https://code.visualstudio.com/) official website to download macOS/wins version to your computer\
-   You should be able to open Visual Studio Code and the startup page should looklike this:
+1.Go to [VisualStudioCode](https://code.visualstudio.com/) official website to download macOS/wins version to your computer You should be able to open Visual Studio Code and the startup page should looklike this:
    
-   ![image](1681189146725.png)
+![image](1681189146725.png)
    
-   2. Go to [GitbashforWin](https://gitforwindows.org/) official website to download on your computer if you uses windows
+2. Go to [GitbashforWin](https://gitforwindows.org/) official website to download on your computer if you uses windows
 
 ## Step 3 Connecting Remotely
 
