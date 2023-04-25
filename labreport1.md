@@ -48,16 +48,22 @@ Good job! You now are sucessfully connected to a computer in UCSD.
 ## Step 4 Run Commands on your own
 Apply what you have learned recently in class and feel free to use them in the terminal. See what you can do. Here are some commands listed for you:
 
-* `pwd`
-* `ls`
-* `cd`
-* `cat`
+* `pwd` -- print current working directory, show full path name of your current directory
+* `ls` -- list the names and features of files and directories
+* `cd` -- change directories
+* `cat` -- view contents of files or create them
 
-Feel free to play around with them yourself.
+Feel free to play around with them yourself. See what you can do.
 
 Here is an example of running these commands in the terminal: 
 
 ![image](1681189089312.png)
+
+![image](1682398971238.png)
+
+![image](1682399073364.png)
+
+
 
 
 
