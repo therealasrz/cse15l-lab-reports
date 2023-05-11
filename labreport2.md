@@ -23,8 +23,9 @@ Here's the bug I chose from lab 3\
 An input that doesn’t induce a failure, as a JUnit test and any associated code is the following\
 ![image](72157a4635874cef1ec188e6d52cae8.png)
 The symptom, as the output of running the tests\
-![image]()
+![image](image.png)
+1,2,3,4,5 -> 5,4,3,4,5/
 The bug in this code is that instead of reversing the array, this code just copies the array elements in reverse order, resulting in an array with all elements having the same value as the last element of the original array, different than expected output.\
 
 ## Part 3
-Some of the things that I have learned from lab2 and 3 is how to make a web Server that takes care of the input given in from the urls. 
+Some of the things that I have learned from lab2 and 3 is how to make a web Server that takes care of the input given in from the urls. And the importance of constantly checking for bugs and outputs of the code as you write.
