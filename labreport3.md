@@ -59,7 +59,8 @@ Output:\
 
 `grep -v` enables us to displaying lines that do not contain the specified pattern. This is useful when we want to filter the file for sentences that does not match a particular pattern.\
 
-Work Cited: all ideas about the useage of grep commands and inspiration about grep commands are from https://www.geeksforgeeks.org/grep-command-in-unixlinux/ 
+## Work Cited
+All ideas about the useage of grep commands and inspiration about grep commands are from https://www.geeksforgeeks.org/grep-command-in-unixlinux/ 
 
 
 
