@@ -3,7 +3,7 @@
 ---
 ## Part 1
 Student: my test failed but i dont see the difference from the output,
-![image](image.png)
+![image](image4.png)
 ![image](image2.png)
 ta: you should add intermediate command such as printing out the length of the string making sure you obtained your desired output. And then compare the length.
 ![image](image3.png)
