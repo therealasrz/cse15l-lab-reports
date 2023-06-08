@@ -31,3 +31,6 @@ Run the test again to see if the tests have been passed \
 key pressed: `<bash test.sh> <enter>` 
 <br>
 ![image](1686206649080.png)
+
+`Push the changes to github: <git add .> <enter> <git push> <enter>`
+![image](1686207083152.png)
