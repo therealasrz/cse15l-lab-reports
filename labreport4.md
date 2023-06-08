@@ -1,7 +1,7 @@
 # Lab report 4
 
 ---
-## Steps 
+## Steps to take and key pressed
 
 I started from logging into my account and clone from the link provided.
 <br> 
