@@ -3,18 +3,21 @@
 ---
 ## Steps to take and key pressed
 
-I started from logging into my account and clone from the link provided.
-<br> 
+4. I started from logging into my account and clone from the link provided.
+
 ![image](1686204180031.png)
-<br> 
-move to the file that contains the file `lab7` and run the test
-<br> 
+
+5. clone the repository
+![image](1686204180031.png)
+6. move to the file that contains the file `lab7` and run the test
+
 key pressed: `<cd lab7> <enter> <bash test.sh> <enter>`
-<br> 
+
 ![image](1686204480575.png)
-<br> 
+
+7.Fix the error using vim
 key pressed: <br> 
-<br> 
+
 `<vim ListExamples.java>` \
 `to get to the bottom of the file <j> <j> <j> <j> <j>` \
 `move up to the line that contains the code we want to change<k> <k> <k> <k> <k> <k>` <br> 
@@ -27,10 +30,10 @@ key pressed: <br>
 <br>  
 ![image](1686205138080.png)
 
-Run the test again to see if the tests have been passed \
+8. Run the test again to see if the tests have been passed \
 key pressed: `<bash test.sh> <enter>` 
-<br>
+
 ![image](1686206649080.png)
 
-`Push the changes to github: <git add .> <enter> <git push> <enter>`
+9. `Push the changes to github: <git add .> <enter> <git push> <enter>`
 ![image](1686207083152.png)
