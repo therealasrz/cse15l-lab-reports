@@ -3,11 +3,11 @@
 ---
 ## Steps to take and key pressed
 
-4 . I started from logging into my account and clone from the link provided.
+4 . I started from logging into my account and clone from the link provided. `ssh cs15lsp23fk@ieng6.ucsd.edu`
 
 ![image](1686204180031.png)
 
-5 . clone the repository
+5 . clone the repository `git clone https://github.com/ucsd-cse15l-s23/lab7`
 ![image](1686204180031.png)
 6 . move to the file that contains the file `lab7` and run the test
 
