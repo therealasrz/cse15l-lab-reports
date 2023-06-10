@@ -2,7 +2,7 @@
 
 ---
 ## Part 1
-Student: my test failed but i dont see the difference from the output
+Student: my test failed but i dont see the difference from the output, I'm guessing that there are some error with in the code when joining the strings together.
 ` Dir 
  - src
    - Main.java
